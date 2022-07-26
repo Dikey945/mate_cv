@@ -1,3 +1,4 @@
 fs_on_aug22
- - [Preview](https://your-name.github.io/your-repo/)
- - [Pull Request](https://github.com/your-name/your-repo/pull/1/files)
+
+- [Preview](https://github.com/Dikey945/mate_cv.git)
+- [Pull Request](https://github.com/Dikey945/mate_cv.git/pull/1/files)
